@@ -1,0 +1,20 @@
+{
+  "en": {
+    "hello": "Hello luseike language(from server)",
+    "welcome": "Welcome to i18n Demo (from server)",
+    "greeting": "Hi, {name}! (from server)",
+    "settings": "Settings",
+    "language": "Language",
+    "dynamicContent": "This is dynamic content loaded from server 🎉",
+    "name": "Name"
+  },
+  "zh": {
+    "hello": "你好 蒋远路12 (来自服务器)",
+    "welcome": "欢迎使用国际化 Demo (来自服务器)",
+    "greeting": "嗨，{name}！(来自服务器)",
+    "settings": "设置",
+    "language": "语言",
+    "dynamicContent": "这是来自服务器的动态内容 🎉",
+    "name": "姓名"
+  }
+}
