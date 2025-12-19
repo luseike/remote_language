@@ -1,6 +1,6 @@
 {
   "en": {
-    "hello": "luseike",
+    "hello": "床前明月光",
     "welcome": "Welcome to i18n Demo (from github)",
     "greeting": "Hi, {name}! (from server)",
     "settings": "Settings",
@@ -9,7 +9,7 @@
     "name": "Name"
   },
   "zh": {
-    "hello": "你好 蒋远路12 (来自服务器)",
+    "hello": "你好 李白 (来自服务器)",
     "welcome": "欢迎使用国际化 Demo (来自服务器)",
     "greeting": "嗨，{name}！(来自服务器)",
     "settings": "设置",
